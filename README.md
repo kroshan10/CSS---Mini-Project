@@ -1,0 +1,1 @@
+this project serves as a starting point for building a photography website, showcasing images, providing information about exhibits and events, and facilitating communication with visitors through the contact and feedback sections.
